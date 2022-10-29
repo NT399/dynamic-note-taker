@@ -1,2 +1,2 @@
-# dynamic-note-taker
-Application to write and save notes
+# note-taker
+An application to write and save notes

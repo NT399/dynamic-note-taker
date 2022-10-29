@@ -1,0 +1,23 @@
+{
+  "name": "challenge-code",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "description": "An application to write and save notes",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NT399/note-taker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/NT399/note-taker/issues"
+  },
+  "homepage": "https://github.com/NT399/note-taker#readme"
+}
